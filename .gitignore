@@ -1,6 +1,7 @@
 # Files to ignore
 .DS_Store
 .DS_Store?
-ProgressBar/ProgressBar.xcodeproj/project.xcworkspace/xcuserdata/*
-ProgressBar/ProgressBar.xcodeproj/xcuserdata/*
+BlankProject/BlankProject.xcodeproj/project.xcworkspace/xcuserdata/*
+BlankProject/BlankProject.xcodeproj/project.xcworkspace/xcshareddata/*
+BlankProject/BlankProject.xcodeproj/xcuserdata/*
 
